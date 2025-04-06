@@ -10,7 +10,7 @@ const routes = [
   {
     path: '/post/:id',
     name: 'post',
-    component: PostPage, // Страница для отдельного поста
+    component: PostPage, 
   },
 ]
 
